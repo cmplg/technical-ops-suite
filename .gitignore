@@ -1,0 +1,18 @@
+# Build artifacts
+build/
+dist/
+*.spec
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.log

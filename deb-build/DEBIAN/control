@@ -1,0 +1,9 @@
+Package: technical-ops-suite
+Version: 1.0.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Depends: python3, python3-tk
+Maintainer: Cineplex <cineplex@example.com>
+Description: Technical Operations Suite - Daily Technical Application
+ A comprehensive suite for daily technical operations and monitoring.

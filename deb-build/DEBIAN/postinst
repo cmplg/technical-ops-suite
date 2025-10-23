@@ -1,0 +1,5 @@
+#!/bin/bash
+# Update icon cache and desktop database
+gtk-update-icon-cache -f -t /usr/share/icons/hicolor || true
+update-desktop-database || true
+chmod 755 /opt/technical-ops-suite/technical-ops-suite

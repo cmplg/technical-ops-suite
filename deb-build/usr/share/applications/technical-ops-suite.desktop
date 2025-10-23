@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Technical Operations Suite
+Comment=Daily Technical Operations Application
+Exec=/opt/technical-ops-suite/technical-ops-suite
+Icon=technical-ops-suite
+Categories=Utility;Development;
+Terminal=false
+StartupWMClass=TechnicalOpsSuite
